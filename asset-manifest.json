@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio-Farhan/static/css/main.365e5a34.css",
+    "main.js": "/portfolio-Farhan/static/js/main.4b004b6e.js",
+    "static/media/monopoly.jpg": "/portfolio-Farhan/static/media/monopoly.1d28fba8008fa4a36171.jpg",
+    "static/media/Farhan Akhtar img2.jpg": "/portfolio-Farhan/static/media/Farhan Akhtar img2.78c5cb7722f96102766a.jpg",
+    "static/media/restaurant.jpg": "/portfolio-Farhan/static/media/restaurant.e9f333009e873e39f65d.jpg",
+    "static/media/blogging.jpg": "/portfolio-Farhan/static/media/blogging.e93bfb81ec88d3571a91.jpg",
+    "static/media/resume-CV.pdf": "/portfolio-Farhan/static/media/resume-CV.060939b53eb911d6cbab.pdf",
+    "static/media/me2.png": "/portfolio-Farhan/static/media/me2.6f3c1106bbf81cf9ad5d.png",
+    "static/media/portfolio2.jpg": "/portfolio-Farhan/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio1.jpg": "/portfolio-Farhan/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/portfolio-Farhan/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/Crossroads.png": "/portfolio-Farhan/static/media/Crossroads.2b9790ab28cbb2c41db4.png",
+    "index.html": "/portfolio-Farhan/index.html",
+    "main.365e5a34.css.map": "/portfolio-Farhan/static/css/main.365e5a34.css.map",
+    "main.4b004b6e.js.map": "/portfolio-Farhan/static/js/main.4b004b6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.365e5a34.css",
+    "static/js/main.4b004b6e.js"
+  ]
+}
